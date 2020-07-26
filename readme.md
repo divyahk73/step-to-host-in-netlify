@@ -1,17 +1,15 @@
 # step to host project in netlify.com
-<ul>
-  <li>
-1.Go to netlify.com
-  </li>
-  </ul>
-2.signup with gmail account
-3.verify the gmail 
-4.login using your gmail acount and password
-5.click on new sit from git button
-6.click on github
-7.authorised by giving github username and password
-8.then it lists repository present in github account
-9.search repository and select
-10.click on deploy site
-11.once deploying site finshed 
-12.click on site setting and go  change site name and we can rename the site
+<ol>
+  <li>Go to netlify.com</li>
+  <li>signup with gmail account</li>
+  <li>verify the gmail </li>
+  <li>login using your gmail acount and password</li>
+  <li>click on new sit from git button</li>
+  <li>click on github</li>
+   <li>authorised by giving github username and password</li>
+  <li>then it lists repository present in github account</li>
+  <li>search repository and select</li>
+   <li>click on deploy site</li>
+   <li>once deploying site finshed</li> 
+  <li>click on site setting and go  change site name and we can rename the site</li>
+</ol>

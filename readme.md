@@ -1,6 +1,9 @@
 # step to host project in netlify.com
-
+<ul>
+  <li>
 1.Go to netlify.com
+  </li>
+  </ul>
 2.signup with gmail account
 3.verify the gmail 
 4.login using your gmail acount and password
